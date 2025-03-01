@@ -4,7 +4,7 @@
 
 *London, UK*
 
-I'm a people manager and solutions architect with a background in online video workflows, content management systems and e-commerce, backed by two decades of experience with well-known, high-traffic, enterprise-level web properties that are created and maintained by globally distributed teams. I empower engineers to create high-quality, reusable, and maintainable solutions using SOLID design principles, automated testing, and continuous integration.
+Experienced people leader and solutions architect with 20+ years shaping high‑traffic enterprise services in online video, e‑commerce, and content management. I empower globally distributed teams to deliver reusable, maintainable solutions through SOLID design principles, automated testing, and continuous integration.
 
 **<a href="https://www.linkedin.com/in/christianjbrown/" style="color: #75923C; text-decoration: none;"><img src="./icon-linkedin.svg" style="width: 1em;"> Contact</a>**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<a href="https://christianbrown.uk/" style="color: #75923C; text-decoration: none;"><img src="./icon-website.svg" style="width: 1em;"> Website</a>**
 
