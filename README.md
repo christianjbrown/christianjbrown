@@ -6,7 +6,7 @@
 
 Experienced people leader and solutions architect with 20+ years shaping high‑traffic enterprise services in online video, e‑commerce, and content management. I empower globally distributed teams to deliver reusable, maintainable solutions through SOLID design principles, automated testing, and continuous integration.
 
-**<a href="https://www.linkedin.com/in/christianjbrown/"><img src="./icon-linkedin.svg" width="16"> Contact</a>**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<a href="https://christianbrown.uk/"><img src="./icon-website.svg" width="16"> Website</a>**
+**[💼 Contact](https://www.linkedin.com/in/christianjbrown/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[🌐 Website](https://christianbrown.uk/)**
 
 ## GitHub
 
