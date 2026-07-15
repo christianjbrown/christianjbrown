@@ -1,12 +1,12 @@
 # Christian Brown
 
-**Senior Engineering Manager**
+**Engineering Manager**
 
 *London, UK*
 
 Experienced people leader and solutions architect with 20+ years shaping high‑traffic enterprise services in online video, e‑commerce, and content management. I empower globally distributed teams to deliver reusable, maintainable solutions through SOLID design principles, automated testing, and continuous integration.
 
-**<a href="https://www.linkedin.com/in/christianjbrown/" style="color: #75923C; text-decoration: none;"><img src="./icon-linkedin.svg" style="width: 1em;"> Contact</a>**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<a href="https://christianbrown.uk/" style="color: #75923C; text-decoration: none;"><img src="./icon-website.svg" style="width: 1em;"> Website</a>**
+**<a href="https://www.linkedin.com/in/christianjbrown/"><img src="./icon-linkedin.svg" width="16"> Contact</a>**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<a href="https://christianbrown.uk/"><img src="./icon-website.svg" width="16"> Website</a>**
 
 ## GitHub
 
