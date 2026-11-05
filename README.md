@@ -4,10 +4,8 @@
 
 *London, UK*
 
-Experienced people leader and solutions architect with 20+ years shaping high‑traffic enterprise services in online video, e‑commerce, and content management. I empower globally distributed teams to deliver reusable, maintainable solutions through SOLID design principles, automated testing, and continuous integration.
-
-**💼 [LinkedIn](https://www.linkedin.com/in/christianjbrown/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🌐 [Website](https://christianbrown.uk/)**
+Engineering Manager with 20 years in software engineering, 15 years in technical leadership, and 9 years managing engineers. Experienced in leading distributed full-stack teams, scaling high-traffic web platforms, improving operational reliability, and delivering revenue-critical systems.
 
 ## GitHub
 
-This account hosts some small personal projects, and contributions to open source projects. It is not representative of my professional work. For a more detailed view of my professional experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/christianjbrown/).
+This account hosts some small personal projects, and contributions to open source projects. It is not representative of my professional work.
